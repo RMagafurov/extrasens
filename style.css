@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+}
+th {
+    background: #ccc;
+    text-align: left;
+}
+td, th {
+    border: 1px solid #800;
+    padding: 4px;
+}
+.info {
+    color: red;
+}
+.send_ok{
+    color: green!important;
+}
+.reiting{
+    background: yellow;
+}
